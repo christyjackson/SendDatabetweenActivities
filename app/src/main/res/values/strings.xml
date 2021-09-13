@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendData</string>
+    <string name="activity1">Activity 1</string>
+    <string name="activity2">Activity 2</string>
+    <string name="button">Send Data to second activity</string>
+    <string name="textview">Enter your name</string>
+</resources>
